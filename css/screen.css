@@ -86,7 +86,7 @@
 	.box_timeline_holder,.box_timeline{background: none;}
 }
 @media only screen and (max-width : 768px) {
-	.footer-content {padding: 45px 10px 20px;}
+	.footer-content {padding: 90px 10px 20px;}
 	.menu_trigger {
 		display: block;
 		top: 28px;
