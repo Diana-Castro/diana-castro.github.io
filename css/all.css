@@ -335,7 +335,11 @@ h2.slogan{
 .progress li span.tableau{width: 65%;}
 .progress li span.github{width: 90%;}
 .progress li span.atom{width: 80%;}
-.plagin_list{
+.progress li span.spanish{width: 95%;}
+.progress li span.english{width: 90%;}
+.progress li span.french{width: 65%;}
+.progress li span.german{width: 55%;}
+.plagin_list
 	width: 100%;
 	overflow: hidden;
 	margin: 0 0 65px;
@@ -360,14 +364,14 @@ h2.slogan{
 	height: 100%;
 	position: relative;
 }
-.plagin_list li.li_1 a{background: url(../images/icon_ps.png) no-repeat 50% 50% ;}
-.plagin_list li.li_2 a{background: url(../images/icon_ai.png) no-repeat 50% 50% ;}
-.plagin_list li.li_3 a{background: url(../images/icon_ld.png) no-repeat 50% 50% ;}
-.plagin_list li.li_4 a{background: url(../images/icon_fl.png) no-repeat 50% 50% ;}
-.plagin_list li.li_5 a{background: url(../images/icon_html.png) no-repeat 50% 50% ;}
-.plagin_list li.li_6 a{background: url(../images/icon_wp.png) no-repeat 50% 50% ;}
-.plagin_list li.li_7 a{background: url(../images/icon_jq.png) no-repeat 50% 50% ;}
-.plagin_list li.li_8 a{background: url(../images/icon_seo.png) no-repeat 50% 50% ;}
+.plagin_list li.li_1 a{background: url(../images/icon_mysql.png) no-repeat 50% 50% ;}
+.plagin_list li.li_2 a{background: url(../images/icon_py.png) no-repeat 50% 50% ;}
+.plagin_list li.li_3 a{background: url(../images/icon_xsl.png) no-repeat 50% 50% ;}
+.plagin_list li.li_4 a{background: url(../images/icon_gs.png) no-repeat 50% 50% ;}
+.plagin_list li.li_5 a{background: url(../images/icon_rs.png) no-repeat 50% 50% ;}
+.plagin_list li.li_6 a{background: url(../images/icon_tb.png) no-repeat 50% 50% ;}
+.plagin_list li.li_7 a{background: url(../images/icon_gh.png) no-repeat 50% 50% ;}
+.plagin_list li.li_8 a{background: url(../images/icon_at.png) no-repeat 50% 50% ;}
 .wrapper-holder.grey p{padding: 0 0 25px;}
 .plagin_list.none{display: none;}
 
@@ -522,7 +526,7 @@ transition: all 0.5s ease-in-out;
 }
 .box_contact span.email{background: url(../images/icon_email2.png) no-repeat;}
 .box_contact span.phone{background: url(../images/icon_phone.png) no-repeat;}
-.box_contact span.skype{background: url(../images/icon_skype.png) no-repeat;}
+.box_contact span.linkedin{background: url(../images/icon_li.png) no-repeat;}
 /*footer
  */
 #footer {
@@ -567,10 +571,8 @@ transition: all 0.5s ease-in-out;
 	position: relative;
 }
 .footer-content .social li.email a{background: url(../images/icon_email.png) no-repeat 50% 50% ;}
-.footer-content .social li.facebook a{background: url(../images/icon_fb.png) no-repeat 50% 50%;}
-.footer-content .social li.google a{background: url(../images/icon_gl.png) no-repeat 50% 50% ;}
-.footer-content .social li.twitter a{background: url(../images/icon_tw.png) no-repeat 50% 50% ;}
-.footer-content .social li.pinterest a{background: url(../images/icon_pn.png) no-repeat 50% 50%;}
+.footer-content .social li.github a{background: url(../images/icon_gh.png) no-repeat 50% 50%;}
+.footer-content .social li.linkedin a{background: url(../images/icon_li.png) no-repeat 50% 50% ;}
 .footer-content p{
 	font:18px/20px Arial, Helvetica, sans-serif;
 	display: block;
@@ -649,56 +651,48 @@ transition: all 0.5s ease-in-out;
 		background-image: url(../images/bg_timeline_c@x2.png);
 		background-size:50px 86px;
 	}
-	.footer-content .social li.email a{
+	.footer-content .social li.gmail a{
 		background-image: url(../images/icon_email@x2.png);
 		background-size:51px 38px;
 	}
-	.footer-content .social li.facebook a{
-		background-image: url(../images/icon_fb@x2.png);
+	.footer-content .social li.linkedin a{
+		background-image: url(../images/icon_li.png);
 		background-size:20px 38px;
 	}
-	.footer-content .social li.google a{
-		background-image: url(../images/icon_gl@x2.png);
+	.footer-content .social li.github a{
+		background-image: url(../images/icon_gh.png);
 		background-size:42px 38px;
 	}
-	.footer-content .social li.twitter a{
-		background-image: url(../images/icon_tw@x2.png);
-		background-size:44px 34px;
-	}
-	.footer-content .social li.pinterest a{
-		background-image: url(../images/icon_pn@x2.png);
-		background-size:38px 38px;
-	}
 	.plagin_list li.li_1 a{
-		background-image: url(../images/icon_ps@x2.png);
+		background-image: url(../images/icon_mysql.png);
 		background-size:49px 42px;
 	}
 	.plagin_list li.li_2 a{
-		background-image: url(../images/icon_ai@x2.png);
+		background-image: url(../images/icon_py.png);
 		background-size:45px 42px;
 	}
 	.plagin_list li.li_3 a{
-		background-image: url(../images/icon_ld@x2.png);
+		background-image: url(../images/icon_xsl.png);
 		background-size:40px 43px;
 	}
 	.plagin_list li.li_4 a{
-		background-image: url(../images/icon_fl@x2.png);
+		background-image: url(../images/icon_gs.png);
 		background-size:34px 42px;
 	}
 	.plagin_list li.li_5 a{
-		background-image: url(../images/icon_html@x2.png);
+		background-image: url(../images/icon_rs.png);
 		background-size:39px 55px;
 	}
 	.plagin_list li.li_6 a{
-		background-image: url(../images/icon_wp@x2.png);
+		background-image: url(../images/icon_tb.png);
 		background-size:55px 55px;
 	}
 	.plagin_list li.li_7 a{
-		background-image: url(../images/icon_jq@x2.png);
+		background-image: url(../images/icon_gh.png);
 		background-size:87px 20px;
 	}
 	.plagin_list li.li_8 a{
-		background-image: url(../images/icon_seo@x2.png);
+		background-image: url(../images/icon_at.png);
 		background-size:60px 24px;
 	}
 	.box_contact span.email{
@@ -709,8 +703,8 @@ transition: all 0.5s ease-in-out;
 		background-image: url(../images/icon_phone@x2.png);
 		background-size:54px 54px;
 	}
-	.box_contact span.skype{
-		background-image: url(../images/icon_skype@x2.png);
+	.box_contact span.li{
+		background-image: url(../images/icon_li.png);
 		background-size:54px 51px;
 	}
 /* begin add	 */
