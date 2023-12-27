@@ -1,11 +1,11 @@
 **Work in Progress**
 # Diana Castro's Data Analyst Portfolio
 ## Index
-1. [Overview](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md###Overview)
-3. [Tableau Projects](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md###Tableau_Projects)
-4. [Report Examples](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md###report_Examples)
-5. [Presentation Examples](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md###Presentation_Examples)
-6. [Additional Information](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md###Additional_Information)
+1. [Overview](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md#overview)
+3. [Tableau Projects](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md#tableau-projects)
+4. [Report Examples](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md#report-rxamples)
+5. [Presentation Examples](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md#presentation-examples)
+6. [Additional Information](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md#additional-information)
 ### Overview
 Welcome to my GitHub Portfolio! I'm Diana, a dedicated and detail-oriented data analyst with an environmental engineering degree. Let me begin by sharing some information about myself. 
 
