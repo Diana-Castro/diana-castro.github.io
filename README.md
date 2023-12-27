@@ -1,7 +1,11 @@
 **Work in Progress**
 # Diana Castro's Data Analyst Portfolio
 ## Index
-1. [Overview](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md###overview)
+1. [Overview](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md###Overview)
+3. [Tableau Projects](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md###Tableau_Projects)
+4. [Report Examples](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md###report_Examples)
+5. [Presentation Examples](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md###Presentation_Examples)
+6. [Additional Information](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md###Additional_Information)
 ### Overview
 Welcome to my GitHub Portfolio! I'm Diana, a dedicated and detail-oriented data analyst with an environmental engineering degree. Let me begin by sharing some information about myself. 
 
@@ -11,5 +15,12 @@ In my experience as a Technical Writer, I expandded my ability t communicate com
 
 In addition to my technical writing and environmental engineering background, I have taken courses in programming languages such as Python, R, and SQL and I'm confident that I can apply this knowledge to effectively manage, analyze, and visualize large datasets. Which brings me to this portfolio I created to showcase my skills and share projects. I hope this repository is helpful and guides you to improve your projects.
 
+### Tableau Projects
 
+### Report Examples
 
+### Presentation Examples
+
+### Additional Information
+To know more about my experience and education please see my [Resume](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/Diana-Castro-Resume.pdf) . 
+If you would like to personally contact me please send me an email or contact me through my [LinkedIn profile](https://www.linkedin.com/in/diana-castro-a2a87a1b0/).
