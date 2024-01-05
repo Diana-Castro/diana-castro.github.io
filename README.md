@@ -30,8 +30,8 @@ The following are different visualizations I created in Tableau as part of my Go
 
 ### Report Examples
 
-### Presentation Examples
+### Presentation Examples 
 
 ### Additional Information
-To know more about my experience and education please see my [Resume](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/Diana-Castro-Resume.pdf) . 
+To know more about my experience and education please see my [Resume](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/Diana_Castro_Resume.pdf). 
 If you would like to personally contact me please send me an email or contact me through my [LinkedIn profile](https://www.linkedin.com/in/diana-castro-a2a87a1b0/).
