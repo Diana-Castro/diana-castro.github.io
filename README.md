@@ -30,6 +30,11 @@ The following are different visualizations I created in Tableau as part of my Go
 
 ### Report Examples
 
+The following are examples of a couple reports I have created. 
+ * [DESUUR Project Thesis](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/DESUUR_Spanish_Report.pdf)
+This document was created as a thesis for my Bachelor's degree. It details an enterprise that builds and sells a sustainable housing model depending on the bioclimatic factors of the environment.
+ * [Test Report Template](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/Template%20Report%20-%20%23%23%23%20SW%23%23%23%20App.pdf)
+
 ### Presentation Examples 
 
 ### Additional Information
