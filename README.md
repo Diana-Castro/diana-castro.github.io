@@ -17,6 +17,17 @@ In addition to my technical writing and environmental engineering background, I 
 
 ### Tableau Projects
 
+#### Cyclistic Project
+
+For this project the task was to identify how annual members and casual riders use Cyclistic bikes differently. After cleaning and analyzing the data using RStudio I detailed the project findings in a Kaggle Notebook called [Cyclistic Case Study](https://www.kaggle.com/code/dianacastroa/cyclistic-case-study) proposing three alternatives to increase Cyclistic users. Once I created the initial graph of the behaviour in R I proceded to create a more detailed version in Tableau [Cyclystic's Average Ride Length](https://public.tableau.com/app/profile/diana.castro3685/viz/Cyclisticsaverageridelength/Dashboard1).
+
+#### Google Data Analytics Certificate Exercises
+
+The following are different visualizations I created in Tableau as part of my Google Data Analytics certification process including dashboards and stories. 
+* [Average CO2 per capita](https://public.tableau.com/app/profile/diana.castro3685/viz/Exercise2GACertificate/Dashboard1)
+* [CO2 Emissions per Region](https://public.tableau.com/app/profile/diana.castro3685/viz/PerCapitaCO2Emissions_16815108930350/Sheet1)
+* [Happiness Score Factors Story](https://public.tableau.com/app/profile/diana.castro3685/viz/HappinessScatterPlotsfromGoogle/Dashboard1)
+
 ### Report Examples
 
 ### Presentation Examples
