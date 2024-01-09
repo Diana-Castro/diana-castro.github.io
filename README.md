@@ -34,8 +34,11 @@ The following are examples of a couple reports I have created.
  * [DESUUR Project Thesis](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/DESUUR_Spanish_Report.pdf)
 This document was created as a thesis for my Bachelor's degree. It details an enterprise that builds and sells a sustainable housing model depending on the bioclimatic factors of the environment.
  * [Test Report Template](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/Template%20Report%20-%20%23%23%23%20SW%23%23%23%20App.pdf)
+This template is a report example of reports I have worked with. It showcases some of my Microsoft Office skills. Usually, I use different templates depending on the documentation type such as user guides, SOPs, reports, etc. 
 
 ### Presentation Examples 
+
+For me, presentations are the most important part of the project's deliverable because it is the point where you show your hard work. Perhaps not the technical details of how difficult it was to create a visualization or clean the data, but it is the moment to show creatively the visualization that facilitates solving a problem or a task. Visualizations summarize the data, but it is the presentation where you get to describe with your own words what is going on and what the data is saying. The [DESUUR Project](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/DESUUR_Project_Spanish.pdf) is an example of a presentation I created for the DESUUR Thesis report. Despite the presentation being is Spanish, I want to use this as an example of having a flow throughout the presentation and the recurring sustainability theme to connect our presentation with the project's topic while keeping the information summarized with diagrams, graphs, and tables to guide the audience's attention to what really is important.
 
 ### Additional Information
 To know more about my experience and education please see my [Resume](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/Diana_Castro_Resume.pdf). 
