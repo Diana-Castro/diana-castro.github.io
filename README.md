@@ -1,5 +1,5 @@
 **Work in Progress**
-# Diana Castro's Data Analyst Portfolio
+# Diana Castro's Portfolio
 ## Index
 1. [Overview](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md#overview)
 3. [Tableau Projects](https://github.com/Diana-Castro/diana-castro.github.io/blob/main/README.md#tableau-projects)
